@@ -1,0 +1,11 @@
+Model Information:
+* title:	Temple Game Level
+* source:	https://sketchfab.com/3d-models/temple-game-level-188586f1af9d493ca35728ef42b8c951
+* author:	Jen S Abbott (https://sketchfab.com/jsabbott)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Temple Game Level" (https://sketchfab.com/3d-models/temple-game-level-188586f1af9d493ca35728ef42b8c951) by Jen S Abbott (https://sketchfab.com/jsabbott) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
